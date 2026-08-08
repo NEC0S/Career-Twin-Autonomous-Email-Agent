@@ -1,3 +1,6 @@
+
+
+
 <div align="center">
 
 # 🤖 Agentic AI Career Email Assistant
@@ -38,7 +41,7 @@
 
 <div align="center">
 
-`[ 📺 DEMO VIDEO PLACEHOLDER — link/embed to be added ]`
+https://github.com/user-attachments/assets/96e10f17-6e6a-496e-95bb-f2ff4d0f72b0
 
 </div>
 
