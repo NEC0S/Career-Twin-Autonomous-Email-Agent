@@ -37,7 +37,7 @@
 
 ## 🎥 Demo
 
-> 🎬 **Video walkthrough coming soon!** A short demo showing the agent triaging a live inbox, deciding between an autonomous reply and a human escalation, will be embedded here.
+> 🎬 A short demo showing the agent triaging a live inbox, deciding between an autonomous reply and a human escalation, will be embedded here.
 
 <div align="center">
 
@@ -97,7 +97,7 @@ No hallucinated answers to recruiters. No missed opportunities. No manual inbox 
 | 🐍 Core Language | Python |
 | 📬 Email Protocols | IMAP (reading) + SMTP (threaded replies) |
 | 🧠 LLM | Google Gemini via OpenAI-compatible API |
-| 🔧 Agent Pattern | Manual function/tool calling (JSON Schema, `tool_choice="required"`) |
+| 🔧 Agent Pattern | Manual function/tool calling (JSON Schema, `tool_choice="required"`) | OpenAI SDK
 | 📄 Resume Parsing | `pypdf` |
 | 📲 Notifications | Pushover API |
 | 💾 State Management | JSON-based idempotent Message-ID tracking |
@@ -190,21 +190,14 @@ For always-on deployment, adapt the notebook logic into a standalone `.py` scrip
 
 ---
 
-## 🗺️ Roadmap
+## 🗺️ Next
 
-- [ ] 🎥 Embed demo video
 - [ ] 🖥️ Convert notebook to standalone deployable script
 - [ ] 📊 Add logging/analytics dashboard for reply history
 - [ ] 🌐 Support multiple inbox providers beyond Gmail
 
 ---
 
-## 📜 License
-
-This is a personal project — use, fork, and adapt freely under the MIT License.
-
-<div align="center">
-
-**Built with 🧠 + ☕ as an agentic AI portfolio project.**
+**Built with 🧠 + ☕ as an agentic AI project in my portfolio.**
 
 </div>
