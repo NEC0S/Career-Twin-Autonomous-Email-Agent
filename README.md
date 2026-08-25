@@ -79,6 +79,7 @@ The dashboard shows a **live triage feed** for every email the agent has looked 
 - `SCANNED` — the email was reviewed and didn't need action (e.g. a routine application acknowledgment).
 
 Users land on the marketing page, sign in (Clerk-authenticated), and land on their dashboard to review triage history and manage onboarding (resume/summary upload, inbox connection).
+<img width="1672" height="894" alt="image" src="https://github.com/user-attachments/assets/115b81d2-0bf2-4f54-988d-3d7532184004" />
 
 ---
 
